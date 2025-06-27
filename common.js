@@ -2,7 +2,7 @@ function loadUrl()
 {
 	if(num>=1)
 	{
-		var url="";
+		var url="https://www.fstztez.com";
 		window.location=url;
 	}
 }
